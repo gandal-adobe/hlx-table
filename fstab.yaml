@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://mp815c7a20a01c3fe529.free.beeceptor.com/data
+  /: 
+    url: https://mp815c7a20a01c3fe529.free.beeceptor.com/data
+    type: markup
