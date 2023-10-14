@@ -4,8 +4,8 @@ EXLM
 
 ## Environments
 
-- Preview: https://main--exlm--adobe-experience-league.hlx.page/
-- Live: https://main--exlm--adobe-experience-league.hlx.live/
+- Preview: https://main--hlx-table--gandal-adobe.hlx.page/
+- Live: https://main--hlx-table--gandal-adobe.hlx.live/
 
 ## Installation
 
