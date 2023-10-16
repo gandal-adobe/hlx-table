@@ -1109,3 +1109,18 @@ a.has-text-danger-dark:hover {
 .columns.is-mobile {
   display: flex
 }
+
+.column {
+  display: block;
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+  padding: .75rem
+}
+
+.container {
+  flex-grow: 1;
+  margin: 0 auto;
+  position: relative;
+  width: auto
+}
